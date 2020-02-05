@@ -9,18 +9,38 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font: normal 100%;
-  font-family: 'Gravitas One', cursive;
-  font-family: 'Rammetto One', cursive;
-  font-family: 'Comfortaa', cursive;
-  font-family: 'Open Sans', sans-serif;
+  font: normal 100% 'Open Sans', sans-serif;
   box-sizing: border-box;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
   margin: 0;
   padding: 0;
+}
+
+.pink {
+  background-color: #e97065;
+}
+.watermelon {
+  font-family: 'Gravitas One', cursive;
+}
+
+.yellow {
+  background-color: #fbd25e;
+}
+
+.starfruit {
+  font-family: 'Rammetto One', cursive;
+}
+
+.orange {
+  background-color: #e86033;
+}
+
+.persimmon {
+  font-family: 'Comfortaa', cursive;
 }
