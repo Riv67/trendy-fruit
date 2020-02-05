@@ -9,7 +9,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font: normal 100% 'Open Sans', sans-serif;
+  font: normal 100% "Open Sans", sans-serif;
   box-sizing: border-box;
 }
 
@@ -24,8 +24,9 @@ body {
 .pink {
   background-color: #e97065;
 }
+
 .watermelon {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .yellow {
@@ -33,7 +34,7 @@ body {
 }
 
 .starfruit {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .orange {
@@ -41,5 +42,5 @@ body {
 }
 
 .persimmon {
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
 }
