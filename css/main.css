@@ -19,14 +19,13 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
 }
 
 .pink {
   background-color: #e97065;
 }
 .watermelon {
-  font-family: 'Gravitas One', cursive;
+  font-family: 'Rammetto One', cursive;
 }
 
 .yellow {
@@ -34,7 +33,7 @@ body {
 }
 
 .starfruit {
-  font-family: 'Rammetto One', cursive;
+  font-family: 'Gravitas One', cursive;
 }
 
 .orange {
